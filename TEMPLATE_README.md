@@ -1,6 +1,8 @@
 # template
 A template project, concentrating on licenses and legal boiler plate.
 
+See [Creating a repository from a template](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+
 This helps you conform to GFK's open source policy. For non-GFK use, please change the GFK references in CONTRIBUTING.md
 
 This readme file explains the use of this template. Delete it but keep the rest.
