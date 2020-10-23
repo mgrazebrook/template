@@ -16,7 +16,7 @@ For GFK workers see also:
 * [CoP: Open Source & Inner Source](https://confluence.gfk.com/pages/viewpage.action?pageId=197083289) for materials relating to the Open Source Community of Practice
 
 # What's in it for us?
-* GFK uses a lot of open source. One can overcome the 'tragedy of the commons' by being deliberately generous.
+* GFK uses a lot of free open source. One can overcome the 'tragedy of the commons' by being deliberately generous.
 * GFK finds it convenient to re-use software between divisions by making it open - as long as it isn't central to our competitive advantage.
 * We recruit developers. If we can demonstrate the quality of our development through excellent public work, it's easier to hire good people.
 * Finding bugs in production is costly. We hope there aren't any but if there are, your bug reports can help them get fixed before they affect anyone else - including us.
